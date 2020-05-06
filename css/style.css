@@ -2,6 +2,10 @@ h1 {
     font-weight: 700;
 }
 
+h4 {
+    margin-bottom: 20px;
+}
+
 .navbar-nav .nav-item {
     margin-left: 15px;
 }
@@ -52,9 +56,14 @@ section {
     margin-bottom: 15px;
 }
 
-img {
-    width: 350px;
-    height: 350px;
+.homepage-logo {
+    width: 250px;
+    height: auto;
+}
+
+.checkout-logo {
+    width: 250px;
+    height: auto;
 }
 
 section .typewrite {
